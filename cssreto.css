@@ -1,0 +1,20 @@
+img {
+
+ display: block;
+ margin: 5% auto;
+  
+}
+
+body{
+    background-color: black;
+}
+
+#ace{
+    display: block;
+    width: 700px;
+    height: 200px;
+    margin: 0px auto;
+}
+p{
+   background-color: white;
+}
